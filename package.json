@@ -1,0 +1,17 @@
+{
+  "name": "ad26me18-number-guessing-game",
+  "version": "1.0.0",
+  "description": "This is a CLI number guessing game with the help of inquirer, nodejs, typescript.",
+  "main": "index.js",
+  "type": "module",
+  "bin":  "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17"
+  }
+}
